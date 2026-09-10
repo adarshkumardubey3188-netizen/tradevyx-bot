@@ -1,0 +1,4 @@
+python-telegram-bot
+Flask
+Pillow
+yt-dlp
